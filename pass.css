@@ -1,0 +1,115 @@
+body{
+text-align: center;
+background-color: black;
+width: 1253px;
+height: 678px;
+top: -1385px;
+left: 169px;
+padding: 64px 61px 64px 62px;
+gap: 0px;
+opacity: 0px;
+display: flex;
+}
+
+#box1{
+    width: 550px;
+    height: 550px;
+    top: 64px;
+    left: 62px;
+    gap: 0px;
+    opacity: 0px;  
+    background-color: #1F2937;
+    margin-left: 300px;
+}
+
+#grp{
+    color: white;
+    width: 354px;
+height: 80px;
+top: 115px;
+left: 52px;
+gap: 0px;
+margin-left: 50px;
+margin-top: 50px;
+margin-right: 50px;
+opacity: 0px;
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: 40px;
+font-weight: 800;
+line-height: 40px;
+letter-spacing: -0.025em;
+text-align: left;
+}
+
+#line1{
+    margin-left: 50px;
+    width: 372px;
+    height: 28px;
+    top: 205px;
+    left: 52px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+    color: #D5D4D8;
+}
+
+#genPassButton{
+    width: 191px;
+height: 42px;
+top: 284px;
+left: 52px;
+padding: 9px 17px 9px 15px;
+gap: 12px;
+border-radius: 6px 0px 0px 0px;
+opacity: 0px;
+background: #10B981;
+color: white;
+margin-left: 50px;
+margin-top: 50px;
+margin-right: 50px;
+box-shadow: 0px 1px 2px 0px #0000000D;
+}
+
+#hr{
+    width: 446px;
+height: 0px;
+top: 361px;
+left: 52px;
+gap: 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+margin: 50px;
+border: 1px solid #2F3E53
+}
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+#div1{
+    width: 211px;
+height: 39px;
+top: 396px;
+left: 52px;
+gap: 0px;
+border-radius: 6px 0px 0px 0px;
+opacity: 0px;
+background: #273549;
+color: #10B981;
+padding-top: 20px;
+}
+#div2{
+    width: 211px;
+height: 39px;
+top: 396px;
+left: 287px;
+gap: 0px;
+border-radius: 6px 0px 0px 0px;
+opacity: 0px;
+background: #273549;
+color: #10B981;
+padding-top: 20px;
+}
